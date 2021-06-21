@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "com.chardon"
-version = "0.0.2"
+version = "0.0.2-MAINLINE"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
